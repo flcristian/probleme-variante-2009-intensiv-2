@@ -1,0 +1,14 @@
+﻿  probleme-bac-2009-intensiv.cpp
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\functii.h(104,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\functii.h(474,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\functii.h(532,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\functii.h(584,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\solutii.h(30,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\solutii.h(360,6): warning C4101: 'x': unreferenced local variable
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\solutii.h(359,9): warning C4101: 'n': unreferenced local variable
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\solutii.h(359,6): warning C4101: 'd': unreferenced local variable
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\functii.h(284): warning C4715: 'primMaiMare': not all control paths return a value
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\functii.h(272): warning C4715: 'primMaiMic': not all control paths return a value
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\functii.h(560): warning C4715: 'celMaiMareDivComun': not all control paths return a value
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\solutii.h(681): error C4700: uninitialized local variable 'y' used
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\solutii.h(681): error C4700: uninitialized local variable 'x' used
