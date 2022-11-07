@@ -1,4 +1,4 @@
-#include "solutii.h"
+#include "varianta-27.h"
 
 int main()
 {

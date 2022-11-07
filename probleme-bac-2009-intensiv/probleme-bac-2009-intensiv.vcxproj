@@ -130,8 +130,26 @@
     <ClCompile Include="probleme-bac-2009-intensiv.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="functii.h" />
-    <ClInclude Include="solutii.h" />
+    <ClInclude Include="varianta-18-functii.h" />
+    <ClInclude Include="varianta-18.h" />
+    <ClInclude Include="varianta-19-functii.h" />
+    <ClInclude Include="varianta-19.h" />
+    <ClInclude Include="varianta-20-functii.h" />
+    <ClInclude Include="varianta-20.h" />
+    <ClInclude Include="varianta-21-functii.h" />
+    <ClInclude Include="varianta-21.h" />
+    <ClInclude Include="varianta-22-functii.h" />
+    <ClInclude Include="varianta-22.h" />
+    <ClInclude Include="varianta-23-functii.h" />
+    <ClInclude Include="varianta-23.h" />
+    <ClInclude Include="varianta-24-functii.h" />
+    <ClInclude Include="varianta-24.h" />
+    <ClInclude Include="varianta-25-functii.h" />
+    <ClInclude Include="varianta-25.h" />
+    <ClInclude Include="varianta-26-functii.h" />
+    <ClInclude Include="varianta-26.h" />
+    <ClInclude Include="varianta-27-functii.h" />
+    <ClInclude Include="varianta-27.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="BAC.txt" />

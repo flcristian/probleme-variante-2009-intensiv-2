@@ -13,6 +13,36 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Varianta 18">
+      <UniqueIdentifier>{e8f6b15f-07d5-4947-bdb6-ac6e42c5cc9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Varianta 19">
+      <UniqueIdentifier>{0deb08da-0e29-436b-a9c4-cdf5f16fe55d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Varianta 20">
+      <UniqueIdentifier>{0d5fb29f-fbbb-4288-bd29-70283f656836}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Varianta 21">
+      <UniqueIdentifier>{a3dc35b9-517b-4d79-a430-19142011f1df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Varianta 22">
+      <UniqueIdentifier>{fa3eb008-6a52-4aaa-b9d4-f02d7961d3c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Varianta 23">
+      <UniqueIdentifier>{7fbdc1f8-226e-43cd-a7d8-7045037d85de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Varianta 24">
+      <UniqueIdentifier>{22f743b7-31eb-4090-8ade-3bfd69b4d2f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Varianta 25">
+      <UniqueIdentifier>{ac31b9d1-71c0-44b3-8c32-cf85e00f22fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Varianta 26">
+      <UniqueIdentifier>{c5a26a8a-979e-426b-865b-e7ce558a5672}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Varianta 27">
+      <UniqueIdentifier>{e0f8a867-f6ae-4b26-be8e-f954e3fa37f5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="probleme-bac-2009-intensiv.cpp">
@@ -20,11 +50,65 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="solutii.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="varianta-18.h">
+      <Filter>Varianta 18</Filter>
     </ClInclude>
-    <ClInclude Include="functii.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="varianta-18-functii.h">
+      <Filter>Varianta 18</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-19.h">
+      <Filter>Varianta 19</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-19-functii.h">
+      <Filter>Varianta 19</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-20.h">
+      <Filter>Varianta 20</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-20-functii.h">
+      <Filter>Varianta 20</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-21.h">
+      <Filter>Varianta 21</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-21-functii.h">
+      <Filter>Varianta 21</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-22.h">
+      <Filter>Varianta 22</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-22-functii.h">
+      <Filter>Varianta 22</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-23.h">
+      <Filter>Varianta 23</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-23-functii.h">
+      <Filter>Varianta 23</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-24.h">
+      <Filter>Varianta 24</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-24-functii.h">
+      <Filter>Varianta 24</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-25.h">
+      <Filter>Varianta 25</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-26.h">
+      <Filter>Varianta 26</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-27.h">
+      <Filter>Varianta 27</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-25-functii.h">
+      <Filter>Varianta 25</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-26-functii.h">
+      <Filter>Varianta 26</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-27-functii.h">
+      <Filter>Varianta 27</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
