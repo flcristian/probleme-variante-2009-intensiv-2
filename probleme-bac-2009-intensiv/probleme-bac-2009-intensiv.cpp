@@ -1,6 +1,6 @@
-#include "varianta-27.h"
+#include "varianta-100.h"
 
 int main()
 {
-	solutievar27pb3();
+	solutievar98sub3pb4();
 }

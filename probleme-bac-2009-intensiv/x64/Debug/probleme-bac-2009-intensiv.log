@@ -7,8 +7,11 @@ D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-in
 D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\varianta-24-functii.h(51,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\varianta-25-functii.h(23,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\varianta-25-functii.h(75,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\varianta-95-functii.h(20,6): warning C4101: 'raspuns': unreferenced local variable
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\varianta-97.h(49,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
 D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\varianta-21-functii.h(36): warning C4715: 'primMaiMic': not all control paths return a value
 D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\varianta-21-functii.h(48): warning C4715: 'primMaiMare': not all control paths return a value
 D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\varianta-25-functii.h(51): warning C4715: 'celMaiMareDivComun': not all control paths return a value
 D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\varianta-27-functii.h(27): warning C4715: 'numarCifre': not all control paths return a value
+D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\probleme-bac-2009-intensiv\varianta-98-functii.h(24): warning C4715: 'rezolvareVar98Sub3Pb3': not all control paths return a value
   probleme-bac-2009-intensiv.vcxproj -> D:\mycode\tablouribidimensionale\probleme-bac-2009-intensiv\x64\Debug\probleme-bac-2009-intensiv.exe

@@ -43,6 +43,24 @@
     <Filter Include="Varianta 27">
       <UniqueIdentifier>{e0f8a867-f6ae-4b26-be8e-f954e3fa37f5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Varianta 95">
+      <UniqueIdentifier>{bd7e41d2-cf77-486e-8a2d-52857d2fd1a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Varianta 96">
+      <UniqueIdentifier>{96621132-e810-4d88-a6db-1aac85d5398b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Varianta 97">
+      <UniqueIdentifier>{39c935cf-6e02-4a07-b558-b16f55749c82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Varianta 98">
+      <UniqueIdentifier>{495659f9-9b4a-4403-9991-5154ecec9eb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Varianta 99">
+      <UniqueIdentifier>{5bb3e8c4-ee67-4dcf-a457-229a7e000a63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Varianta 100">
+      <UniqueIdentifier>{f10a0946-5bd9-4a8a-8119-5f922ad72198}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="probleme-bac-2009-intensiv.cpp">
@@ -110,6 +128,42 @@
     <ClInclude Include="varianta-27-functii.h">
       <Filter>Varianta 27</Filter>
     </ClInclude>
+    <ClInclude Include="varianta-95.h">
+      <Filter>Varianta 95</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-96.h">
+      <Filter>Varianta 96</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-97.h">
+      <Filter>Varianta 97</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-98.h">
+      <Filter>Varianta 98</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-99.h">
+      <Filter>Varianta 99</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-100.h">
+      <Filter>Varianta 100</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-95-functii.h">
+      <Filter>Varianta 95</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-96-functii.h">
+      <Filter>Varianta 96</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-97-functii.h">
+      <Filter>Varianta 97</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-98-functii.h">
+      <Filter>Varianta 98</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-99-functii.h">
+      <Filter>Varianta 99</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-100-functii.h">
+      <Filter>Varianta 100</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="numere.txt">
@@ -125,6 +179,12 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="NUMAR.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="rez.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="date.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>

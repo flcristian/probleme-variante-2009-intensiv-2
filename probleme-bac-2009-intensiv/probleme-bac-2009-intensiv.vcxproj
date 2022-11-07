@@ -130,6 +130,8 @@
     <ClCompile Include="probleme-bac-2009-intensiv.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="varianta-100-functii.h" />
+    <ClInclude Include="varianta-100.h" />
     <ClInclude Include="varianta-18-functii.h" />
     <ClInclude Include="varianta-18.h" />
     <ClInclude Include="varianta-19-functii.h" />
@@ -150,6 +152,16 @@
     <ClInclude Include="varianta-26.h" />
     <ClInclude Include="varianta-27-functii.h" />
     <ClInclude Include="varianta-27.h" />
+    <ClInclude Include="varianta-95-functii.h" />
+    <ClInclude Include="varianta-95.h" />
+    <ClInclude Include="varianta-96-functii.h" />
+    <ClInclude Include="varianta-96.h" />
+    <ClInclude Include="varianta-97-functii.h" />
+    <ClInclude Include="varianta-97.h" />
+    <ClInclude Include="varianta-98-functii.h" />
+    <ClInclude Include="varianta-98.h" />
+    <ClInclude Include="varianta-99-functii.h" />
+    <ClInclude Include="varianta-99.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="BAC.txt" />
@@ -157,6 +169,8 @@
     <Text Include="nr2.txt" />
     <Text Include="NUMAR.txt" />
     <Text Include="numere.txt" />
+    <Text Include="rez.txt" />
+    <Text Include="date.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
